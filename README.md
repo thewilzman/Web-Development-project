@@ -2,4 +2,4 @@ This is a html file presenting my resume. it was done only using html code with 
 What I learned:
 -html list
 -html organization(header, body, footer)
-- html img link.
+html image link.
